@@ -1,0 +1,105 @@
+[en]
+MENU_TITLE = \yWant to buy a New Defuse?
+MENU_YES = \wYes
+MENU_NO = \wNo
+MENU_TEXT = \wThe cost of the New Defuse is \r$%i
+ND_DESACTIVED = [%s] The New Defuse is desactived right know.
+ND_HAS_DEFUSE = [%s] You can't buy the New Defuse becouse you have one.
+ND_ALIVE = [%s] You have to be alive to buy the New Defuse.
+ND_T_CANT = [%s] The New Defuse is only for CT.
+ND_BUYZONE = [%s] You can buy the New Defuse only in the buyzone.
+ND_MONEY = [%s] You don't have money to buy a New Defuse.
+ND_RECIVED = [%s] You recived a New Defuse.
+ND_BUY_DEFUSE = [%s] If you want to buy a New Defuse, next time type /defuse.
+BD_MESSAGE = [%s] You can't defuse the bomb without a defuse kit.
+SPAWN_MESSAGE = [%s] Type /defuse to buy the New Defuse.
+
+[es]
+MENU_TITLE = \yQuieres comprar el Nuevo Defuse?
+MENU_YES = \wSi
+MENU_NO = \wNo
+MENU_TEXT = \wEl costo del Nuevo Defuse es de \r$%i
+ND_DESACTIVED = [%s] El Nuevo Defuse se encuentra desactivado en este momento.
+ND_HAS_DEFUSE = [%s] No puedes comprar el Nuevo Defuse porque ya tienes uno.
+ND_ALIVE = [%s] Tienes que estar vivo para comprar el Nuevo Defuse.
+ND_T_CANT = [%s] El Nuevo Defuse es solo para CT.
+ND_BUYZONE = [%s] Solo puedes comprar el Nuevo Defuse en la zona de compra.
+ND_MONEY = [%s] No tienes la plata suficiente para comprar el Nuevo Defuse.
+ND_RECIVED = [%s] Recibiste el Nuevo Defuse.
+ND_BUY_DEFUSE = [%s] Si quieres comprar el Nuevo Defuse en otro momento, tipea /defuse.
+BD_MESSAGE = [%s] No puedes defusear la bomba sin un defuse.
+SPAWN_MESSAGE = [%s] Tipea /defuse para comprar el Nuevo Defuse.
+
+[ro]
+MENU_TITLE = \yDoresti sa cumperi un nou Kit de Dezamorsare?
+MENU_YES = \wDa
+MENU_NO = \wNu
+MENU_TEXT = \wPretul unui Kit de Dezamorsare este de \r$%i
+ND_DESACTIVED = [%s] Noul Kit de Dezamorsare este acum dezactivat.
+ND_HAS_DEFUSE = [%s] Nu poti cumpara un nou Kit de Dezamorsare deoarece ai deja unul.
+ND_ALIVE = [%s] Trebuie sa fi in viata sa poti cumpara Kit de Dezamorsare.
+ND_T_CANT = [%s] Kitul de Dezamorsare nu poate fi cumparat decat de echipa CT.
+ND_BUYZONE = [%s] Poti cumpara Kitul de Dezamorsare doar in baza.
+ND_MONEY = [%s] Nu ai suficienti bani pentru a cumpara un Kit de Dezamorsare.
+ND_RECIVED = [%s] Ai primit un Kit de Dezamorsare.
+ND_BUY_DEFUSE = [%s] Daca doresti sa cumperi un Kit de Dezamorsare, data viitoare tasteaza /defuse.
+
+[lv]
+MENU_TITLE = \yTu gribi nopirkt jaunu Defuse?
+MENU_YES = \wJaa
+MENU_NO = \wNee
+MENU_TEXT = \wJaunaa Defuse cena ir \r$%i
+ND_DESACTIVED = [%s] Jaunais Defuse ir izsleegts.
+ND_HAS_DEFUSE = [%s] Tu nevari nopirkt jaunu Defuse, tapec ka tev jau ir viens.
+ND_ALIVE = [%s] Tev ir jabuut dziivam lai nopirktu Defuse.
+ND_T_CANT = [%s] Jaunais Defuse ir tikai prieks CT.
+ND_BUYZONE = [%s] Tu vari nopirkt jaunu Defuse tikai pirksanas zonaa.
+ND_MONEY = [%s] Tev nav pietiekami naudas,lai nopirtu Defuse.
+ND_RECIVED = [%s] TU saneemi jaunu Defuse.
+ND_BUY_DEFUSE = [%s] Ja tu gribi nopirkt Defuse uzraksti chataa /defuse.
+
+[ru]
+MENU_TITLE = \yTi hochech kupit' novie schipci?
+MENU_YES = \wDa
+MENU_NO = \wNet
+MENU_TEXT = \wCena novih schipcov \r$%i
+ND_DESACTIVED = [%s] Noviye schipci vikluceni.
+ND_HAS_DEFUSE = [%s] Ti ne mozech' kupit' schipci potomu chto u tebya uze estj oni.
+ND_ALIVE = [%s] Tebye nado bitj zivim chtobi kutij schipci.
+ND_T_CANT = [%s] Noviye schipci tol'ko dlya komandi Kontrov.
+ND_BUYZONE = [%s] Ti mozhech kupitj noviye schipci tol'ko v zone pokupok.
+ND_MONEY = [%s] U teby'a nedostatochno deneg,chtobi kuoitj schipci.
+ND_RECIVED = [%s] Ti kupil noviye schipci.
+ND_BUY_DEFUSE = [%s] Yesli ti hochech kupitj schipci, napishi v chate /defuse.
+
+[nl]
+MENU_TITLE = \yWil je een Nieuwe Ontmijning kopen?
+MENU_YES = \wJa
+MENU_NO = \wNee
+MENU_TEXT = \wDe kosten van de Nieuwe Ontmijning zijn \r$%i
+ND_DESACTIVED = [%s] De Nieuwe Ontmijning is momenteel uitgeschakeld.
+ND_HAS_DEFUSE = [%s] Je kan geen Nieuwe Ontmijning kopen want je hebt er reeds een.
+ND_ALIVE = [%s] Je moet levend zijn om een Nieuwe Ontmanteling te kopen.
+ND_T_CANT = [%s] De nieuwe ontmanteling is alleen voor CT's.
+ND_BUYZONE = [%s] Je kan Nieuwe Ontmantelingen alleen kopen in de koopzone.
+ND_MONEY = [%s] Je hebt niet genoeg geld om een Nieuwe Ontmanteling te kopen.
+ND_RECIVED = [%s] Je kreeg een Nieuwe Ontmanteling.
+ND_BUY_DEFUSE = [%s] Als je een Nieuwe Ontmanteling wilt kopen, schrijf dan /defuse.
+BD_MESSAGE = [%s] Je kan de bom niet ontschadelijk maken zonder ontmijnings pakket.
+SPAWN_MESSAGE = [%s] Schrijf /defuse om een Nieuwe Ontmanteling te kopen.
+
+[de]
+MENU_TITLE = \yMoechtest Du ein neues Entschaerfungskit kaufen?
+MENU_YES = \wJa
+MENU_NO = \wNein
+MENU_TEXT = \wDie Kosten eines neuen Entschaerfungskits belaufen sich auf \r$%i
+ND_DESACTIVED = [%s] Das neue Entschaerfungskit ist jetzt deaktiviert.
+ND_HAS_DEFUSE = [%s] Du kannst kein neues Entschaerfungskit kaufen, weil Du bereits eins besitzt.
+ND_ALIVE = [%s] Du musst am Leben sein um ein neues Entschaerfungskit zu kaufen.
+ND_T_CANT = [%s] Das neue Entschaerfungskit ist ausschliesslich fuer CTs.
+ND_BUYZONE = [%s] Du kannst das neue Entschaerfungskit nur in der Kaufzone kaufen.
+ND_MONEY = [%s] Du hast nicht genug Geld um ein neues Entschaerfungskit zu kaufen.
+ND_RECIVED = [%s] Du hast ein neues Entschaerfungskit erhalten.
+ND_BUY_DEFUSE = [%s] Wenn Du ein neues Entschaerfungskit kaufen moechtest, schreibe das naechste Mal /defuse in den Chat.
+BD_MESSAGE = [%s] Du benoetigst ein Entschaerfungskit um die Bombe zu entschaerfen.
+SPAWN_MESSAGE = [%s] Schreibe /defuse in den Chat um ein neues Entschaerfungskit zu kaufen.

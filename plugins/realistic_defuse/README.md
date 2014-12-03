@@ -9,11 +9,11 @@ This plugin give more realistic when the player (CT) defuse the bomb.
 
 ## Features:
 
-- You can block defusing without defuse kit (controled by cvar).
-- You can set that defuse kit can be used only for some times (controled by cvar).
-- Players can buy a New Defuse that can be used all the time except if you die (controled by cvar)
-- Plugin Have Multilingual System.
-- And more things.
+>-You can block defusing without defuse kit (controled by cvar).
+>-You can set that defuse kit can be used only for some times (controled by cvar).
+>-Players can buy a New Defuse that can be used all the time except if you die (controled by cvar)
+>-Plugin Have Multilingual System.
+>-And more things.
 
 ## Commands:
 
@@ -61,11 +61,11 @@ __say /defuse:__ Show a menu asking you if want to buy a New Defuse, with the pr
   
 ## Recommended Plugins:
 
-[Icons Color Changer](http://forums.alliedmods.net/showthread.php?p=816874)
-[Planting Normalizer](http://forums.alliedmods.net/showthread.php?p=790266)
-[Time To Defuse](http://forums.alliedmods.net/showthread.php?p=523845)
-[Drop Defuser Kit](http://forums.alliedmods.net/showthread.php?p=57960)
-[Defuse Mistake 1.4](http://forums.alliedmods.net/showthread.php?p=601970)
+* [Icons Color Changer](http://forums.alliedmods.net/showthread.php?p=816874)
+* [Planting Normalizer](http://forums.alliedmods.net/showthread.php?p=790266)
+* [Time To Defuse](http://forums.alliedmods.net/showthread.php?p=523845)
+* [Drop Defuser Kit](http://forums.alliedmods.net/showthread.php?p=57960)
+* [Defuse Mistake 1.4](http://forums.alliedmods.net/showthread.php?p=601970)
 
 ## Credits:
 

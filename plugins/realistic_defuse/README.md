@@ -10,9 +10,13 @@ This plugin give more realistic when the player (CT) defuse the bomb.
 ## Features:
 
 >-You can block defusing without defuse kit (controled by cvar).
+
 >-You can set that defuse kit can be used only for some times (controled by cvar).
+
 >-Players can buy a New Defuse that can be used all the time except if you die (controled by cvar)
+
 >-Plugin Have Multilingual System.
+
 >-And more things.
 
 ## Commands:

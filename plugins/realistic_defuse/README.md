@@ -1,11 +1,13 @@
 Realistic Defuse v1.4
 ============
 
-# Description:
+__Esto es una copia del [link original](https://forums.alliedmods.net/showthread.php?t=101106)__
+
+## Description:
 
 This plugin give more realistic when the player (CT) defuse the bomb.
 
-# Features:
+## Features:
 
 - You can block defusing without defuse kit (controled by cvar).
 - You can set that defuse kit can be used only for some times (controled by cvar).
@@ -13,11 +15,11 @@ This plugin give more realistic when the player (CT) defuse the bomb.
 - Plugin Have Multilingual System.
 - And more things.
 
-# Commands:
+## Commands:
 
 __say /defuse:__ Show a menu asking you if want to buy a New Defuse, with the price too.
 
-# Cvars:
+## Cvars:
 
 * rd_enable (Default: 1)
   * 0: Plugin get paused.
@@ -57,7 +59,7 @@ __say /defuse:__ Show a menu asking you if want to buy a New Defuse, with the pr
 * new_defuse_color (Default: "255 0 0")
   * Color of the New Defuse to difference with the normal defuse.
   
-# Recommended Plugins:
+## Recommended Plugins:
 
 [Icons Color Changer](http://forums.alliedmods.net/showthread.php?p=816874)
 [Planting Normalizer](http://forums.alliedmods.net/showthread.php?p=790266)
@@ -65,13 +67,13 @@ __say /defuse:__ Show a menu asking you if want to buy a New Defuse, with the pr
 [Drop Defuser Kit](http://forums.alliedmods.net/showthread.php?p=57960)
 [Defuse Mistake 1.4](http://forums.alliedmods.net/showthread.php?p=601970)
 
-# Credits:
+## Credits:
 
 * [Exolent](http://forums.alliedmods.net/member.php?u=25165) and [ConnorMcLeod](http://forums.alliedmods.net/member.php?u=18946) ([Exolent](http://forums.alliedmods.net/showthread.php?t=101026))
 * [larito](http://forums.alliedmods.net/member.php?u=44270) and [joaquimandrade](http://forums.alliedmods.net/member.php?u=45372) ([Exolent](http://forums.alliedmods.net/showthread.php?t=100909))
 * [ConnorMcLeod](http://forums.alliedmods.net/member.php?u=18946) - Blocking C4 defuse & Same color of defuse at StatusIcon event.
 
-# Changelog:
+## Changelog:
 
 * Version 1.0
   * First Release.
@@ -92,9 +94,6 @@ __say /defuse:__ Show a menu asking you if want to buy a New Defuse, with the pr
   * Added new cvars: defuse_remove_immunity, defuse_block_immunity, defuse_reward.
   * Also added some recommended plugins to the thread.
   
-# Multilingual:
+## Multilingual:
 
 [Multilingual Thread](http://forums.alliedmods.net/showthread.php?t=101107)
-============
-
-__Esto es una copia del [link original](https://forums.alliedmods.net/showthread.php?t=101106)__

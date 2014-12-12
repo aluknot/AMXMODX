@@ -1,0 +1,79 @@
+[en]
+BF_NOT_BLOCKED = Burst fire is not blocked.
+BF_BLOCKED_FOR = Burst fire is only blocked for %s.
+BF_BLOCKED_BOTH = Burst fire is blocked for %s and %s.
+S_NOT_BLOCKED = Silencer is not blocked.
+S_BLOCKED_FOR = Silencer is only blocked for %s.
+S_BLOCKED_BOTH = Silencer is blocked for %s and %s.
+BF_YOUR_WEAPON = Burst fire is blocked for the weapon that you have.
+S_YOUR_WEAPON = Silencer is blocked for the weapon that you have.
+
+[es]
+BF_NOT_BLOCKED = El burst fire no esta bloqueado.
+BF_BLOCKED_FOR = El burst fire esta bloqueado solo para la %s.
+BF_BLOCKED_BOTH = El burst fire esta bloqueado para la %s y la %s.
+S_NOT_BLOCKED = El silenciador no esta bloqueado.
+S_BLOCKED_FOR = El silenciador esta bloqueado solo para la %s.
+S_BLOCKED_BOTH = El silenciador esta bloqueado para la %s y la %s.
+BF_YOUR_WEAPON = El burst fire se encuentra bloqueado para esta arma.
+S_YOUR_WEAPON = El silenciador se encuentra bloqueado para esta arma.
+
+[nl]
+BF_NOT_BLOCKED = De 'meerdere shoten' zijn niet geblokkeerd.
+BF_BLOCKED_FOR = De 'meerdere shoten' zijn alleen geblokkeerd voor %s.
+BF_BLOCKED_BOTH = De 'meerdere shoten' zijn geblokkeerd voor %s en %s.
+S_NOT_BLOCKED = De geluidsdemper is niet geblokkeerd.
+S_BLOCKED_FOR = De geluidsdemper is alleen geblokkeerd voor %s.
+S_BLOCKED_BOTH = De geluidsdemper is geblokkeerd voor %s en %s.
+BF_YOUR_WEAPON = De 'meerdere shoten' zijn geblokkeerd voor het wapen dat jij hebt.
+S_YOUR_WEAPON = De geluidsdemper is geblokkeerd voor het wapen dat jij hebt.
+
+[pl]
+BF_NOT_BLOCKED = Tryb strzelania seria nie jest zablokowany.
+BF_BLOCKED_FOR = Tryb strzelania seria jest zablokowany tylko dla %s.
+BF_BLOCKED_BOTH = Tryb strzelania seria jest zablokowany dla %s i %s.
+S_NOT_BLOCKED = Tlumik nie jest zablokowany.
+S_BLOCKED_FOR = Tlumik jest zablokowany tylko dla %s.
+S_BLOCKED_BOTH = Tlumik jest zablokowany dla %s i %s.
+BF_YOUR_WEAPON = Tryb strzelania seria jest zablokowany dla borni, ktora masz.
+S_YOUR_WEAPON = Tlumik jest zablokowany dla broni, ktora masz.
+
+[fr]
+BF_NOT_BLOCKED = Le tir semi-automatique n'est pas bloque.
+BF_BLOCKED_FOR = Le tir semi-automatique est seulement bloque pour %s.
+BF_BLOCKED_BOTH = Le tir semi-automatique est bloque pour %s et %s.
+S_NOT_BLOCKED = Le silencieux n'est pas bloque.
+S_BLOCKED_FOR = Le silencieux est seulement bloque pour %s.
+S_BLOCKED_BOTH = Le silencieux est  bloque pour %s et %s.
+BF_YOUR_WEAPON = Le Tir Semi-Automatique est bloque pour votre arme.
+S_YOUR_WEAPON = Le Silencieux est bloque pour votre arme.
+
+[de]
+BF_NOT_BLOCKED = Burst Fire ist nicht gesperrt.
+BF_BLOCKED_FOR = Burst Fire ist nur fuer %s gesperrt.
+BF_BLOCKED_BOTH = Burst Fire ist fuer %s und %s gesperrt.
+S_NOT_BLOCKED = Der Schalldaempfer ist nicht gesperrt.
+S_BLOCKED_FOR = Der Schalldaempfer ist nur fuer %s gesperrt.
+S_BLOCKED_BOTH = Der Schalldaempfer ist fuer %s und %s gesperrt.
+BF_YOUR_WEAPON = Burst Fire ist fuer Deine Waffe gesperrt.
+S_YOUR_WEAPON = Der Schalldaempfer ist fuer Deine Waffe gesperrt.
+
+[sv]
+BF_NOT_BLOCKED = Skottsalvan 'a'r inte blokerad.
+BF_BLOCKED_FOR = Skottsalvan 'a'r bara blokerad f'o'r %s.
+BF_BLOCKED_BOTH = Skottsalvan 'a'r bara blokerad f'o'r %s och %s.
+S_NOT_BLOCKED = ljudd'a'mparen 'a'r inte blokerad
+S_BLOCKED_FOR = ljudd'a'mparen 'a'r bara blokerad f'o'r %s.
+S_BLOCKED_BOTH = ljudd'a'mparen 'a'r blokerad f'o'r %s och %s.
+BF_YOUR_WEAPON = skottsalvan 'a'r blokerad f'o'r vapnet som du har.
+S_YOUR_WEAPON = ljudd'a'mparen 'a'r blokerad f'o' vapnet som du har.
+
+[lt]
+BF_NOT_BLOCKED = Sprogimo ugnis nera blokuota.
+BF_BLOCKED_FOR = Sprogimo ugnis yra blokuota tik %s.
+BF_BLOCKED_BOTH = Sprogimo ugnis yra blokuota tik %s ir %s.
+S_NOT_BLOCKED = Slopintuvas nera blokuotas.
+S_BLOCKED_FOR = Slopintuvas yra blokuota tik %s.
+S_BLOCKED_BOTH = Slopintuvas yra blokuota tik %s ir %s.
+BF_YOUR_WEAPON = Sprogimo ugnis yra blokuota ginklui, kuri jus turite.
+S_YOUR_WEAPON = Slopintuvas yra blokuotas ginklui, kuri jus turite.

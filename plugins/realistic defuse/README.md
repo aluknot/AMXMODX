@@ -25,42 +25,42 @@ __say /defuse:__ Show a menu asking you if want to buy a New Defuse, with the pr
 
 ## Cvars:
 
-* rd_enable (Default: 1)
+* __rd_enable (Default: 1)__
   * 0: Plugin get paused.
   * 1: Plugin is working.
   * If you change this cvar in the middle of the game you have to change the map to apply the changes.
-* defuse_remove (Default: 1)
+* __defuse_remove (Default: 1)__
   * 0: Don't remove defuse kit from player when he defused the bomb.
   * 1: Remove defuse kit from player when he defused the bomb (see next cvar).
-* defuse_remove_immunity (Default: 0)
+* __defuse_remove_immunity (Default: 0)__
   * 0: Admins aren't inmune when defuse_remove cvar is enable.
   * 1: Admins are inmune when defuse_remove cvar is enable (so defuse not removed).
-* defuse_times (Default: 1)
+* __defuse_times (Default: 1)__
   * How much defuses can be made after remove defuse kit from the player. defuse_remove have to be actived. 0 And 1 is the same.
-* defuse_block (Default: 1)
+* __defuse_block (Default: 1)__
   * 0: Player can defuse without defuse kit.
   * 1: Player can't defuse without defuse kit.
-* defuse_block_immunity (Default: 0)
+* __defuse_block_immunity (Default: 0)__
   * 0: Admins aren't inmune when defuse_block cvar is enable.
   * 1: Admins are inmune when defuse_block cvar is enable (so admins can defuse without defusekit).
-* defuse_reward (Default: 1)
+* __defuse_reward (Default: 1)__
   * 0: When the player defuse the bomb without defusekit, not get a reward.
   * 1: When the player defuse the bomb without defusekit, get a defuse (only if defuse_block is disabled).
-* defuse_plugintag (Default: "[Realistic Defusing]")
+* __defuse_plugintag (Default: "[Realistic Defusing]")__
   * Change the Plugin Tag of the chat messages.
-* new_defuse (Default: "1")
+* __new_defuse (Default: "1")__
   * 0: New Defuse is desactived.
   * 1: New Defuse is actived.
-* new_defuse_buyzone (Default: "1")
+* __new_defuse_buyzone (Default: "1")__
   * 0: Player can buy the New Defuse everywhere.
   * 1: Player can buy the New Defuse only in the buyzone.
-* new_defuse_sound (Default: "1")
+* __new_defuse_sound (Default: "1")__
   * 0: Don't play a sound.
   * 1|2|3: Play different sounds when you buy the New Defuse.
   * If the cvar have a value > than 0 and when you try to buy the New Defuse but don't have enough money you hear another sound (that can't be changed).
-* new_defuse_cost (Default: "1000")
+* __new_defuse_cost (Default: "1000")__
   * Cost of the New Defuse.
-* new_defuse_color (Default: "255 0 0")
+* __new_defuse_color (Default: "255 0 0")__
   * Color of the New Defuse to difference with the normal defuse.
   
 ## Recommended Plugins:
